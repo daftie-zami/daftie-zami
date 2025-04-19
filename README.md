@@ -21,7 +21,7 @@ I like building **structured, reusable, and well-documented firmware**, and I en
 - 🛠️ Working with low-level peripherals (USART, SPI, I2C, CAN, USB HID)
 
 ### 🌱 Currently Exploring:
-- ⚙️ Advanced debugging techniques (SWD, GDB)
+- ⚙️ Debugging techniques (SWD, GDB)
 - 🧠 Real-Time Operating Systems (ChibiOS, RTEMS)
 - 🔌 CAN and other embedded communication protocols
 
