@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+an+Embedded+Developer;🔧+Working+on+STM32,+RTOS,+and+Low-Level+Stuff;🎯+Focused+on+Clean,+Modular+Firmware&center=true&width=750&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+an+Embedded+Software+Developer;🔧+Working+on+STM32,+RTOS,+and+Low-Level+Stuff;🎯+Focused+on+Clean,+Modular+Firmware&center=true&width=750&height=45">
 </p>
 
 <p align="center">
