@@ -16,7 +16,8 @@ I like building **structured, reusable, and well-documented firmware**, and I en
 ---
 
 ### 💻 What I do:
-- 🔧 Embedded development with **C/C++**, **STM32**, **libopencm3**, **HAL**
+- 🔧 Development with **C**<u><i>(not cpp:)</i></u>
+, **STM32**, **libopencm3**, **HAL**
 - 🧩 Modular firmware design with **Makefile** build systems
 - 🛠️ Working with low-level peripherals (USART, SPI, I2C, CAN, USB HID)
 
