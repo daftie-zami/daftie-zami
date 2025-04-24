@@ -49,18 +49,14 @@ I like building **structured, reusable, and well-documented firmware**, and I en
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=daftie-zami&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daftie-zami&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<!--
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/daftie-zami/daftie-zami/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
--->
+
 
 ---
 
-### 📫 How to reach me:
-
-- 🛰️ Drop a message here on GitHub
-- 🤝 Open to collaborate on open-source embedded projects
 - 🛠️ *Building better tools for embedded developers — one script at a time.*
 
 ---
