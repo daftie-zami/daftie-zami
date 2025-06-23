@@ -29,8 +29,8 @@ I like building **structured, reusable, and well-documented firmware**, and I en
 
 ### 🚀 Highlight Projects
 
-- 🎮 [**simpit**](https://github.com/daftie-zami/simpit)  
-  <!-- TODO -->
+- 🎮 [**simpit**](https://github.com/daftie-zami/simpit)
+- 🔌 [**Lab GCS**](https://github.com/daftie-zami/mavlink_gcs)
 
 ---
 
