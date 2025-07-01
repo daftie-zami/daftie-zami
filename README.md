@@ -22,7 +22,7 @@ I like building **structured, reusable, and well-documented firmware**, and I en
 
 ### 🌱 Currently Exploring:
 - ⚙️ Debugging techniques (SWD, GDB)
-- 🧠 Real-Time Operating Systems (ChibiOS, RTEMS)
+- 🧠 Real-Time Operating Systems (ChibiOS, FreeRTOS)
 - 🔌 CAN and other embedded communication protocols
 
 ---
