@@ -33,16 +33,6 @@ I like building **structured, reusable, and well-documented firmware**, and I en
 - 🔌 [**Lab GCS**](https://github.com/daftie-zami/mavlink_gcs)
 
 ---
-
-### 🏛️ Organizations
-
-<p align="left">
-  <a href="https://github.com/Airaks-Teknoloji">
-    <img src="https://img.shields.io/badge/-Airaks--Teknoloji-181717?style=for-the-badge&logo=github&logoColor=white" alt="Airaks-Teknoloji">
-  </a>
-</p>
-
----
 ### 📈 Stats
 
 <p align="center">
